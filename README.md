@@ -3,6 +3,7 @@ Kompiuterinės grafikos 3 A užduotis
 
 
 <h1> Progress 2020/12/14 </h1>
+
 ![First progress](https://github.com/Kristupas13/GraphCylinder/blob/main/progress/graph3.gif)
 
 
